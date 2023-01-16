@@ -1,0 +1,8 @@
+{
+  "short_name": "مدیریت کار ها",
+  "name": "مدیریت کار ها | To Do List",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
