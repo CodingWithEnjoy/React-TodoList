@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-TodoList/static/css/main.bafc6672.css",
+    "main.js": "/React-TodoList/static/js/main.38fb9106.js",
+    "static/media/date.svg": "/React-TodoList/static/media/date.19a98bcf46b03d7a44e026bda16c6914.svg",
+    "static/media/trash.svg": "/React-TodoList/static/media/trash.5cc9432e2708a6dcfe6592df34e96f95.svg",
+    "static/media/view-2.svg": "/React-TodoList/static/media/view-2.600c36983d8ff00e66c12490d69fbf70.svg",
+    "index.html": "/React-TodoList/index.html",
+    "static/media/star-line.svg": "/React-TodoList/static/media/star-line.25108e8798a98248471aab0a3712f57c.svg",
+    "static/media/options.svg": "/React-TodoList/static/media/options.b23e257ac213477f9bf22b28d1837460.svg",
+    "static/media/view-1.svg": "/React-TodoList/static/media/view-1.65654fa0f8e2ee287cc1b7fb0fa84715.svg",
+    "static/media/edit.svg": "/React-TodoList/static/media/edit.2eac95ab110f00cd4f3a63594255835a.svg",
+    "static/media/bell.svg": "/React-TodoList/static/media/bell.a0d880118f6893a39636d3007e55c100.svg",
+    "static/media/arrow.svg": "/React-TodoList/static/media/arrow.3b06989b99047ede0ed33f04ec61ae93.svg",
+    "static/media/search.svg": "/React-TodoList/static/media/search.ecdf8ec7c4f054fbcbfe4af53be7c8a2.svg",
+    "static/media/menu.svg": "/React-TodoList/static/media/menu.e1e11b80ad71098a5dff1bff1301683e.svg",
+    "static/media/check.svg": "/React-TodoList/static/media/check.1407f3a5b63fe4df2290b863f7e13b6f.svg",
+    "static/media/x.svg": "/React-TodoList/static/media/x.6157b2f9cef61f43cfb9afb27dae1ef8.svg",
+    "main.bafc6672.css.map": "/React-TodoList/static/css/main.bafc6672.css.map",
+    "main.38fb9106.js.map": "/React-TodoList/static/js/main.38fb9106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafc6672.css",
+    "static/js/main.38fb9106.js"
+  ]
+}
